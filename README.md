@@ -28,10 +28,11 @@ The Buyer's interface is made for all the wholesale traders looking to buy the h
 
 ## Technologies Used
 - .NET MVC Core
-- Ms SQL Server
+- MS SQL Server
+- SQL Server Management Studio
 - HTML
-- CSS
 - Javascript
+- CSS
 
 ## Features
 - Efficient Crop listing provided to farmers.
